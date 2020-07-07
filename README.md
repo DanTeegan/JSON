@@ -62,6 +62,11 @@ with open("new_json_file.json") as jsonfile: # Decoding
 # We have DECODED/READING our file new_json.json that we created earlier
 # We have used dumps(), dump() and load() methods
 ```
+```
+CRUD stands for "Create, Read, Update and Delete.
+These are the four basic database operations.
+Many HTTP services model CRUD operations.```
+
 ### Exchange rate exercise
 ```python
 # import json
@@ -73,4 +78,8 @@ with open("new_json_file.json") as jsonfile: # Decoding
 # display exchange rates with specific currencies
 # Method to return the exchange rates
 # Give the full path of the location if not saved within the same folder
-``
+```
+
+```python
+
+```
