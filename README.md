@@ -28,7 +28,7 @@ Null
 # Here we are importing the Json file
 import json
 
-# Encoding from the dictionary and writing Json file
+# Encoding/WRITING from the dictionary and writing Json file
 car_data = {"name": "Tesla", "engine": "electric"} # Dictionary
 
 # This will print the dictionary
@@ -59,6 +59,6 @@ with open("new_json_file.json") as jsonfile: # Decoding
     print(car["name"]) # To get the values stored in the key called name
     print(car["engine"]) # To get the value of second key pair value
 
-# We have DECODED our file new_json.json that we created earlier
+# We have DECODED/READING our file new_json.json that we created earlier
 # We have used dumps(), dump() and load() methods
 ```
