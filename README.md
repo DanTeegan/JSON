@@ -62,3 +62,15 @@ with open("new_json_file.json") as jsonfile: # Decoding
 # We have DECODED/READING our file new_json.json that we created earlier
 # We have used dumps(), dump() and load() methods
 ```
+### Exchange rate exercise
+```python
+# import json
+# create a class Exchange_rates
+# With required attributes
+# fetch the data from exchange_rates.json
+# display the data
+# display the type of data
+# display exchange rates with specific currencies
+# Method to return the exchange rates
+# Give the full path of the location if not saved within the same folder
+``
